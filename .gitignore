@@ -15,6 +15,17 @@ downloads/
 eggs/
 .eggs/
 lib/
+.idea/
+*.iml
+*.vscode/
+*.pyc
+*.pyo
+site-packages/
+*.csv
+*.xlsx
+*.parquet
+*.hdf5
+*.json
 lib64/
 parts/
 sdist/
