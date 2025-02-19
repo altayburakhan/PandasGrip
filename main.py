@@ -26,3 +26,4 @@ df = pd.read_csv("Sources/video_games.csv",
 print(df.info(memory_usage="deep"))
 
 
+
